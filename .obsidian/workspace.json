@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3866d3235393cbc5",
+        "id": "f4b0696e32c50975",
         "type": "tabs",
         "children": [
           {
-            "id": "f3cfbbfaf9671dc0",
+            "id": "ece96debeec3fba6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -146,6 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3cfbbfaf9671dc0",
-  "lastOpenFiles": []
+  "active": "178270a4a928b4ba",
+  "lastOpenFiles": [
+    "README.md",
+    "testing note.md"
+  ]
 }
